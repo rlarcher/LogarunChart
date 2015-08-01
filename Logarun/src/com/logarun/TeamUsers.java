@@ -19,7 +19,7 @@ public class TeamUsers {
 	public List<Runner> getRunners() {
 		List<Runner> runners = new ArrayList<Runner>();
 	    try {
-	    	String url = "http://www.logarun.com/xml.ashx?type=userddl&teamid=1285";
+	    	String url = "http://www.logarun.com/xml.ashx?type=userddl&teamid=852";
 	    	DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 	    	DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 	    	Document doc = dBuilder.parse(new URL(url).openStream());
