@@ -27,7 +27,7 @@ public class MakeChart {
 	         
 	      int width = 640; /* Width of the image */
 	      int height = 480; /* Height of the image */ 
-	      File BarChart = new File( "TartanTraining.jpeg" ); 
+	      File BarChart = new File( "WashUTraining.jpeg" ); 
 	      try {
 			ChartUtilities.saveChartAsJPEG( BarChart , barChart , width , height );
 		} catch (IOException e) {
