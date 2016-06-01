@@ -1,1 +1,2 @@
-# LogarunChart
+LogarunChart
+showing JM

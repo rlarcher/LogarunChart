@@ -1,5 +1,7 @@
 package com.logarun;
 
+// a comment
+
 public class Runner {
 	
 	private String fullName;
