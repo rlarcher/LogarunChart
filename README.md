@@ -1,2 +1,2 @@
 LogarunChart
-showing JM
+adding a new feature
